@@ -1,0 +1,6 @@
+Paracetamol,70,caixa
+Dipirona,200,caixa
+Naproxeno,100,caixa
+,140,Caixa
+Paracetamol,200,caixa
+Ibuprofeno,120,Caixa
